@@ -31,5 +31,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faw01&theme=great-gatsby&show_icons=true&locale=en" />
 </a>
 <a href="https://github.com/faw01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xyz&theme=great-gatsby&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fawxyz&theme=great-gatsby&show_icons=true&locale=en" />
 </a>
