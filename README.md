@@ -9,7 +9,7 @@
 
 - 📝 writing on [medium](https://medium.com/@fawxyz)
 
-- 📫 reach me **mailto:talkto@faw.dev** or **mailto:fawwad30@gmail.com**
+- 📫 reach me [talkto@faw.dev](mailto:talkto@faw.dev) or [fawwad30@gmail.com](mailto:fawwad30@gmail.com)
 
 <h3 align="left">i'm also on:</h3>
 <p align="left">
