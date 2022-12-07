@@ -30,11 +30,11 @@
 <h3 align="left">dev times:</h3>
 
 <a href="https://github.com/faw01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faw01&theme=great-gatsby&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faw01&theme=swift &show_icons=true&locale=en" />
 </a>
 <a href="https://github.com/faw01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faw01&theme=great-gatsby&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faw01&theme=swift &custom_title=my+faves&show_icons=true&locale=en" />
 </a>
 <a href="https://github.com/faw01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fawxyz&theme=great-gatsby&"all time dev times"&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fawxyz&theme=swift &custom_title=time+wasted&show_icons=true&locale=en" />
 </a>
