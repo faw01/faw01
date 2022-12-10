@@ -6,7 +6,7 @@
 - 🌱 currently learning **javascript, typescript, sql**
 
 - 👨‍💻 website at [**faw.dev**](https://www.faw.dev)
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+
 - 📝 writing on [**medium**](https://medium.com/@fawxyz)
 
 - 📫 reach me [**talkto@faw.dev**](mailto:talkto@faw.dev) or [**fawwad30@gmail.com**](mailto:fawwad30@gmail.com)
