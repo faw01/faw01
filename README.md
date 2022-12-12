@@ -5,7 +5,7 @@
 
 - 🌱 currently learning **javascript, typescript, sql**
 
-- 👨‍💻 website at [**faw.dev**](https://www.faw.dev) :construction:  🚧 **UNDER CONSTRUCTION** 🚧
+- 👨‍💻 website at [**faw.dev**](https://www.faw.dev) 🚧 **UNDER CONSTRUCTION** 🚧
 
 - 📝 writing on [**medium**](https://medium.com/@fawxyz)
 
