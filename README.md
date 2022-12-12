@@ -1,7 +1,8 @@
 <h1 align="center">hey, i'm faw</h1>
 <h3 align="center">currently a second year student at monash university studying data science</h3>
 
-- 🔭 currently working on [**faw.dev**](https://www.faw.dev)
+- 🔭 currently working on [**faw.dev**](https://www.faw.dev) and [**This Dating Profile Does Not Exist**](https://github.com/faw01/this-dating-profile-does-not-exist)
+
 
 - 🌱 currently learning **javascript, typescript, sql**
 
