@@ -10,6 +10,8 @@
 
 - 📝 writing on [**medium**](https://medium.com/@fawxyz)
 
+- ☕ buy me [**coffee**](https://ko-fi.com/fawxyz)
+
 - 📫 reach me [**fawwad30@gmail.com**](mailto:fawwad30@gmail.com) or [**talkto@faw.dev**](mailto:talkto@faw.dev)
 
 <h3 align="left">i'm also on:</h3>
