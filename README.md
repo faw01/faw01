@@ -4,7 +4,7 @@
 - 🔭 currently working on [**faw.dev**](https://www.faw.dev) and [**Google's 2023 Solution Challenge**](https://developers.google.com/community/gdsc-solution-challenge)
 
 
-- 🌱 currently learning **javascript, typescript, sql**
+- 🌱 learning **javascript, typescript, sql**
 
 - 👨‍💻 website at [**faw.dev**](https://www.faw.dev) 🚧 **UNDER CONSTRUCTION** 🚧
 
@@ -12,7 +12,7 @@
 
 - ☕ buy me [**coffee**](https://ko-fi.com/fawxyz)
 
-- 📫 reach me [**fawwad30@gmail.com**](mailto:fawwad30@gmail.com) or [**talkto@faw.dev**](mailto:talkto@faw.dev)
+- 📫 reach me [**fawwad30@gmail.com**](mailto:fawwad30@gmail.com) or [**talkto@faw.dev (does not work)**](mailto:talkto@faw.dev)
 
 <h3 align="left">i'm also on:</h3>
 <p align="left">
