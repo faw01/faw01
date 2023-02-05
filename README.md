@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm faw</h1>
 <h3 align="center">currently a second year student at monash university studying data science</h3>
 
-- 🔭 currently working on [**faw.dev**](https://www.faw.dev) and [**This Dating Profile Does Not Exist**](https://github.com/faw01/this-dating-profile-does-not-exist)
+- 🔭 currently working on [**faw.dev**](https://www.faw.dev) and [**Google's 2023 Solution Challenge**](https://developers.google.com/community/gdsc-solution-challenge)
 
 
 - 🌱 currently learning **javascript, typescript, sql**
@@ -29,15 +29,8 @@
 
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
+[![faw's github stats](https://github-readme-stats.vercel.app/api?username=faw01&theme=codeSTACKr&card_width=496&include_all_commits=true&count_private=true&show_icons=true&locale=en&custom_title=my+stats)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">dev times:</h3>
+[![faw's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fawxyz&theme=codeSTACKr&layout=compact&show_icons=true&locale=en&custom_title=my+coding+time)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/faw01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faw01&theme=vision-friendly-dark&show_icons=true&locale=en" />
-</a>
-<a href="https://github.com/faw01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faw01&theme=vision-friendly-dark&show_icons=true&locale=en&custom_title=my+faves" />
-</a>
-<a href="https://github.com/faw01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fawxyz&theme=vision-friendly-dark&show_icons=true&locale=en&custom_title=time+wasted" />
-</a>
+[![faw's fav languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faw01&layout=compact&theme=codeSTACKr&card_width=496&layout=compact&show_icons=true&locale=en&custom_title=my+fav+languages)](https://github.com/anuraghazra/github-readme-stats)
