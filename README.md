@@ -29,7 +29,7 @@
 
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<h3 align="left">funny stats</h3>
+<h3 align="left">funny stats:</h3>
 
 [![faw's github stats](https://github-readme-stats.vercel.app/api?username=faw01&theme=codeSTACKr&card_width=496&include_all_commits=true&count_private=true&show_icons=true&locale=en&custom_title=my+stats)](https://github.com/anuraghazra/github-readme-stats)
 
