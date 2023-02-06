@@ -35,4 +35,4 @@
 
 [![faw's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fawxyz&theme=codeSTACKr&layout=compact&show_icons=true&locale=en&custom_title=my+coding+time)](https://github.com/anuraghazra/github-readme-stats)
 
-[![faw's fav languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faw01&layout=compact&theme=codeSTACKr&card_width=496&layout=compact&show_icons=true&locale=en&custom_title=my+fav+languages)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![faw's fav languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faw01&layout=compact&theme=codeSTACKr&card_width=496&layout=compact&show_icons=true&locale=en&custom_title=my+fav+languages)](https://github.com/anuraghazra/github-readme-stats) -->
