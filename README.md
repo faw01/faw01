@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm faw</h1>
 <h3 align="center">currently a second year student at monash university studying data science</h3>
 
-- 🔭 currently working on [**faw.dev**](https://www.faw.dev) and [**Google's 2023 Solution Challenge**](https://developers.google.com/community/gdsc-solution-challenge)
+- 🔭 currently working on [**faw.dev**](https://www.faw.dev), [**AI Overload**](https://github.com/faw01/ai-p-overload) and [**ETOT**](https://github.com/faw01/eat-this-or-that)
 
 
 - 🌱 learning **javascript, typescript, sql**
