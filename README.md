@@ -1,28 +1,14 @@
 <div align="center">
-  <img height="150" src="https://i.gifer.com/5Q0v.gif"  />
+  <img height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNsNDduZHZzajN0bjkxOGs1emFxZml6bmFxNGNkaTIycGZod200MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1o1oyOi61yOeGG7MtL/giphy.gif"/>
 </div>
-
-###
 
 <br clear="both">
 
 <h1 align="center">hey, i'm faw</h1>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=faw01.faw01&left_color=darkolivegreen&right_color=gray&left_text=stalkers"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h2 align="left">about</h2>
-
-###
 
 <h4 align="left">
 
@@ -40,13 +26,9 @@
 
 </h4>
 
-###
-
 <br clear="both">
 
 <h2 align="left">tech stack</h2>
-
-###
 
 <br clear="both">
 
@@ -59,8 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
-
-###
 
 <br clear="both">
 
@@ -77,9 +57,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
-
-###
-
 <br clear="both">
 
 <div align="left">
@@ -89,9 +66,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="django logo"  />
 </div>
-
-###
-
 <br clear="both">
 
 <div align="left">
@@ -102,15 +76,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
 </div>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -124,13 +94,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" height="40" alt="xd logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h2 align="left">find me</h2>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mfak/" target="_blank">
@@ -150,26 +116,18 @@
   </a>
 </div>
 
-###
-
 <h2 align="left">stats</h2>
-
-###
 
 <br clear="both">
 
 [![faw's github stats](https://github-readme-stats.vercel.app/api?username=faw01&theme=codeSTACKr&card_width=496&include_all_commits=true&count_private=true&show_icons=true&locale=en&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-###
-
 [![faw's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fawxyz&theme=codeSTACKr&layout=compact&show_icons=true&hide_title=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-###
+<h2 align="left">medium</h2>
 
 <br clear="both">
 
 <div align="left">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=fawxyz&theme=codeSTACKr" alt="Layout with last medium posts"  />
 </div>
-
-###
