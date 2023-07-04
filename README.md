@@ -4,7 +4,7 @@
 - 🔭 currently working on [**faw.dev**](https://www.faw.dev), [**AI Overload**](https://github.com/faw01/ai-p-overload) and [**ETOT**](https://github.com/faw01/eat-this-or-that)
 
 
-- 🌱 learning **javascript, typescript, sql**
+- 🌱 learning **django**
 
 - 👨‍💻 website at [**faw.dev**](https://www.faw.dev) 🚧 **UNDER CONSTRUCTION** 🚧
 
