@@ -14,9 +14,9 @@
 
 - 👨‍💻 [faw.dev](https://www.faw.dev)
 
-- 🔭 working on [overload.ai](https://github.com/faw01/overload.ai), [ETOT](https://github.com/faw01/ETOT) and [trade-inator](https://github.com/faw01/trade-inator)
+- 🔭 working on [overload.ai](https://github.com/faw01/overload.ai), [ETOT](https://github.com/faw01/ETOT), [sodoku-solver](https://github.com/faw01/sudoku-solver), [maze-visualisation](https://github.com/faw01/maze-visualisation) and [random](https://github.com/faw01/random)
 
-- 🌱 learning django
+- 🌱 learning go
 
 - 👯 looking to collaborate
 
