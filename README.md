@@ -86,18 +86,16 @@
 
 <!-- stats -->
 <h2>stats</h2>
-<div align="left" style="display: flex; justify-content: start;">
+<div style="display: flex; justify-content: start;">
   <!-- faw's Wakatime stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fawxyz&layout=donut&theme=codeSTACKr&show_icons=true&hide_title=true&locale=en" alt="time spent coding" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fawxyz&layout=compact&langs_count=8&theme=codeSTACKr&show_icons=true&hide_title=true&locale=en" alt="time spent coding" />
   </a>
-  
   <!-- faw's GitHub stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=faw01&theme=codeSTACKr&card_width=496&include_all_commits=true&count_private=true&show_icons=true&locale=en&hide_title=true" alt="github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=faw01&theme=codeSTACKr&card_width=496&show=reviews,discussions_started&include_all_commits=true&count_private=true&show_icons=true&locale=en&hide_title=true" alt="github stats" />
   </a>
 </div>
-
 
 <!-- medium -->
 <h2>medium</h2>
