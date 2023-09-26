@@ -6,7 +6,7 @@
 <!-- intro -->
 <h1 align="center">hey, i'm faw</h1>
 
-<!-- About Section -->
+<!-- about Section -->
 <h2>about</h2>
 <ul>
   <li>👨‍💻 <a href="https://www.faw.dev">portfolio</a></li>
@@ -20,7 +20,6 @@
   </li>
   <li>🌱 learning: Go</li>
   <li>👯 looking to collaborate</li>
-  <li>📝 writing on <a href="https://medium.com/@fawxyz">medium</a></li>
   <li>📫 reach me: <a href="mailto:fawwad30@gmail.com">fawwad30@gmail.com</a> | <a href="mailto:talkto@faw.dev">talkto@faw.dev</a></li>
 </ul>
 
@@ -95,10 +94,4 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=faw01&theme=codeSTACKr&card_width=496&show=reviews,discussions_started&include_all_commits=true&count_private=true&show_icons=true&locale=en&hide_title=true" alt="github stats" />
   </a>
-</div>
-
-<!-- medium -->
-<h2>medium</h2>
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=fawxyz&theme=codeSTACKr" alt="Layout with last medium posts" />
 </div>
