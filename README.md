@@ -9,7 +9,7 @@
 <!-- about Section -->
 <h2>about</h2>
 <ul>
-  <li>👨‍💻 <a href="https://www.faw.dev">portfolio</a></li>
+  <li>👨‍💻 <a href="https://www.faw.dev">website</a></li>
   <li>🔭 working on: 
     <ul>
       <li><a href="https://github.com/faw01/overload.ai">overload.ai</a></li>
