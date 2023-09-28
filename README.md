@@ -12,10 +12,7 @@
   <li>👨‍💻 <a href="https://www.faw.dev">website</a></li>
   <li>🔭 working on: 
     <ul>
-      <li><a href="https://github.com/faw01/overload.ai">overload.ai</a></li>
-      <li><a href="https://github.com/faw01/ETOT">ETOT</a></li>
-      <li><a href="https://github.com/faw01/maze-visualisation">maze-visualisation</a></li>
-      <li><a href="https://github.com/faw01/random">random</a></li>
+      <li><a href="https://github.com/faw01/randorando">randorando</a></li>
     </ul>
   </li>
   <li>🌱 learning: Go</li>
