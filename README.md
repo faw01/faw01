@@ -19,7 +19,7 @@
 
 ### Programming & Development
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,go,r,git,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,go,r,git,bash,lua)](https://skillicons.dev)
 
 ### Web Technologies
 
