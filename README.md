@@ -23,7 +23,7 @@
 
 ### Web Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,html,css,sass,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,html,css,sass,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Data Engineering & Analytics
 
