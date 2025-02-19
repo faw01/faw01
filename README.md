@@ -41,7 +41,7 @@
 
 ### Cloud & Infrastructure
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,docker,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,docker,supabase,githubactions)](https://skillicons.dev)
 
 **Additional Expertise:**
 
