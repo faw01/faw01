@@ -8,11 +8,11 @@
 
 ## About Me
 
-* Final year Computer Science (CS) student @ Monash University, class of 2024
+* Graduate Computer Science (CS) student @ Monash University, class of 2025
 * Specializing in Data Science (DS)
 * Researching interests include Reinforcement Learning from Human Feedback (RLHF), Deep Learning and Genetic Algorithms (GA)
 * Bootstrapping my own startup and other SaaS projects
-* Find out more on my [website](https://faw.dev) or my resume [here](https://faw.dev/resume.pdf)
+* Find out more on my [website](https://faw.dev)
 * Looking to collaborate on projects, research, or business opportunities, reach me at [talkto@faw.dev](mailto:talkto@faw.dev)
 
 ## Technologies & Skills
