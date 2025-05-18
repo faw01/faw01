@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Faw 👋
+# hello. faw here!
 
 ![ASCII Penrose](https://github.com/user-attachments/assets/81243a0a-3409-47e8-978b-a2106d3aaade)
 
@@ -8,12 +8,13 @@
 
 ## About Me
 
-* Graduate Computer Science (CS) student @ Monash University, class of 2025
-* Specializing in Data Science (DS)
-* Researching interests include Reinforcement Learning from Human Feedback (RLHF), Deep Learning and Genetic Algorithms (GA)
-* Bootstrapping my own startup and other SaaS projects
-* Find out more on my [website](https://faw.dev)
-* Looking to collaborate on projects, research, or business opportunities, reach me at [talkto@faw.dev](mailto:talkto@faw.dev)
+* CS/DS Grad @ Monash University, class of 2025
+* Founder @ robin
+* Founding Full-Stack Engineer @ [cleve.ai](https://cleve.ai)
+* Website @ [faw.dev](https://faw.dev)
+* Reach @ [talkto@faw.dev](mailto:talkto@faw.dev)
+
+* Research interests include Reinforcement Learning from Human Feedback (RLHF), Deep Learning (DL) and Genetic Algorithms (GA)
 
 ## Technologies & Skills
 
@@ -46,7 +47,7 @@
 **Additional Expertise:**
 
 * CI/CD Pipelines
-* Microservices Architecture
+* Monolithic and Microservices Architecture
 
 ### Data Science & Research
 
