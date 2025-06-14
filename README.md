@@ -8,8 +8,7 @@
 
 ## About Me
 
-* CS/DS Grad @ Monash University, class of 2025
-* Founder @ robin
+* Founder @ sidekick
 * Founding Full-Stack Engineer @ [cleve.ai](https://cleve.ai)
 * Website @ [faw.dev](https://faw.dev)
 * Reach @ [talkto@faw.dev](mailto:talkto@faw.dev)
