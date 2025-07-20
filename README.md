@@ -8,7 +8,7 @@
 
 ## About Me
 
-* Founder @ sidekick
+* Founder @ Korrect
 * Founding Full-Stack Engineer @ [cleve.ai](https://cleve.ai)
 * Website @ [faw.dev](https://faw.dev)
 * Reach @ [talkto@faw.dev](mailto:talkto@faw.dev)
